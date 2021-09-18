@@ -1,0 +1,5 @@
+env*
+**/base_dados
+**/.ipynb_checkpoints
+**/leiame.pdf
+**/**.csv
